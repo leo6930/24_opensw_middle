@@ -22,4 +22,48 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\Downloads\Backing track\F#.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\F.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\G.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\Jamtracks - Rock Clássico C#.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\wikiloops_jam_261288_mix.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\Bb.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\C.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\C-33.mp3">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\D.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\E.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\Eb.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\Ab.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\B.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+    <Media Include="..\..\..\Downloads\Backing track\A.wav">
+      <Filter>소스 파일</Filter>
+    </Media>
+  </ItemGroup>
 </Project>

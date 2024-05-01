@@ -130,6 +130,22 @@
     <ClCompile Include="Backing_track.c" />
     <ClCompile Include="pentatonic.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\..\Downloads\Backing track\A.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\Ab.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\B.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\Bb.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\C-33.mp3" />
+    <Media Include="..\..\..\Downloads\Backing track\C.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\D.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\E.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\Eb.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\F#.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\F.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\G.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\Jamtracks - Rock Clássico C#.wav" />
+    <Media Include="..\..\..\Downloads\Backing track\wikiloops_jam_261288_mix.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
